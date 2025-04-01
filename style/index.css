@@ -114,6 +114,13 @@ a {
   color: #dca537 !important;
   background-color: white;
 }
+.nav-link:hover > svg{
+  stroke: #dca537;
+  transition: 0.2s;
+}
+.nav-link > svg{
+  transition: 0.2s;
+}
 .btn-saibamais {
   background-color: white;
   border: 1px white solid;
@@ -156,6 +163,13 @@ a {
   padding: 8px;
   border: 2px white solid;
   border-radius: 50%;
+  transition: 0.2s;
+}
+
+.footer svg:hover {
+  transform: scale(0.8);
+  transition: 0.2s;
+  cursor: pointer;
 }
 .footer p {
   margin-top: 12px;
