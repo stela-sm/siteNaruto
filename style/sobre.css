@@ -52,8 +52,15 @@ a {
   transition: 0.2s;
   color: #dca537 !important;
   background-color: white;
+ 
 }
-
+.nav-link:hover > svg{
+  stroke: #dca537;
+  transition: 0.2s;
+}
+.nav-link > svg{
+  transition: 0.2s;
+}
 .banner p {
   display: flex;
   flex-direction: column;
@@ -75,7 +82,7 @@ a {
   text-align: center;
 }
 
-.icon {
+.icondiv > .icon {
   background-color: #ec8d3b;
   width: 99px;
   height: 99px;
