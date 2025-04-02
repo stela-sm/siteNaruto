@@ -1,8 +1,8 @@
 # Projeto: Site do Naruto
 
 ## 📌 Sobre o Projeto
-Este projeto é um site dedicado ao universo de **Naruto**, trazendo informações sobre personagens, episódios, jutsus, clãs e muito mais.
-O Site foi criado com propósito de servir à uma atividade avaliativa de Flexbox e Boostrap pela matéria de Desenvolvimento Web da Faculdade de Desenvolvimento de software.
+Este projeto é um site dedicado ao universo de **Naruto**, trazendo um e-commerce temático com action figures do universo naruto.
+O Site foi criado com propósito de servir à uma atividade avaliativa de Flexbox e Boostrap pela matéria de Desenvolvimento Web do curso superior de Desenvolvimento de software.
 
 ## 🚀 Tecnologias Utilizadas
 - **HTML5**
