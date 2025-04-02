@@ -6,7 +6,7 @@ O Site foi criado com propósito de servir à uma atividade avaliativa de Flexbo
 
 ## 🚀 Tecnologias Utilizadas
 - **HTML5**
-- **CSS3** (incluindo Bootstrap para responsividade)
+- **CSS3** (incluindo Bootstrap)
 - **JavaScript**
 
 ## 🤝 Contribuição
